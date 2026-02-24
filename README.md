@@ -393,9 +393,7 @@ For production deployment:
 
 ---
 
-##  License
 
-MIT License - feel free to use for educational purposes
 
 ---
 
