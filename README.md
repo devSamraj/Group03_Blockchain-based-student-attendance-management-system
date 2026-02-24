@@ -109,7 +109,7 @@ Before you begin, ensure you have the following installed:
 
 ### Step 1: Clone/Navigate to Project
 ```bash
-cd /home/sam/Templates/blockchain_v4/attendance-system
+cd Group03_Blockchain-based-student-attendance-management-system
 ```
 
 ### Step 2: Install Dependencies
