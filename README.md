@@ -4,7 +4,7 @@ A decentralized student attendance tracking system built with **Ethereum Smart C
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -19,7 +19,7 @@ A decentralized student attendance tracking system built with **Ethereum Smart C
 
 ---
 
-## ✨ Features
+##  Features
 
 ### For Teachers (Admin)
 - Register new students with wallet addresses
@@ -52,7 +52,7 @@ A decentralized student attendance tracking system built with **Ethereum Smart C
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 attendance-system/
@@ -80,7 +80,7 @@ attendance-system/
 
 ---
 
-## 📦 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -126,7 +126,7 @@ This installs:
 
 ---
 
-## 🎯 Running the Application
+##  Running the Application
 
 ### Terminal 1: Start Local Blockchain (Ganache)
 
@@ -202,7 +202,7 @@ Contract: AttendanceRegister
 
 ---
 
-## 📘 Usage Guide
+##  Usage Guide
 
 ### 1. Configure MetaMask
 
@@ -275,7 +275,7 @@ Contract: AttendanceRegister
 
 ---
 
-## 📜 Smart Contracts
+##  Smart Contracts
 
 ### AttendanceToken.sol
 - **Type**: ERC-20 Token
@@ -307,7 +307,7 @@ Contract: AttendanceRegister
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Issue: MetaMask not connecting
 **Solution**:
@@ -346,7 +346,7 @@ Contract: AttendanceRegister
 
 ---
 
-## 📝 Additional Notes
+##  Additional Notes
 
 ### Gas Fees
 - All transactions require gas fees (paid in ETH)
@@ -367,7 +367,7 @@ Contract: AttendanceRegister
 
 ---
 
-## 🎓 Demo Flow
+##  Demo Flow
 
 1. **Start Ganache** → Terminal 1
 2. **Deploy Contracts** → Terminal 2
@@ -382,7 +382,7 @@ Contract: AttendanceRegister
 
 ---
 
-## 🚀 Production Deployment
+##  Production Deployment
 
 For production deployment:
 1. Deploy contracts to a testnet (Sepolia, Goerli) or mainnet
@@ -393,13 +393,13 @@ For production deployment:
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - feel free to use for educational purposes
 
 ---
 
-## 🤝 Support
+##  Support
 
 For issues or questions:
 - Check the [Troubleshooting](#troubleshooting) section
