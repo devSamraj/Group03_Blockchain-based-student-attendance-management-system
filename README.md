@@ -407,6 +407,4 @@ For issues or questions:
 - Ensure all prerequisites are installed
 - Verify Ganache is running before deploying contracts
 
----
 
-**Happy Learning! 🎉**
